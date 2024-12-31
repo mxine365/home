@@ -1,0 +1,32 @@
+[
+  {
+    "icon": "Blog",
+    "name": "主站",
+    "link": "https://web.mxine.link/"
+  },
+  {
+    "icon": "Book",
+    "name": "文档",
+    "link": "https://web.mxine.link/docs"
+  },
+  {
+    "icon": "CompactDisc",
+    "name": "音乐",
+    "link": "https://music.mxine.link/"
+  },
+  {
+    "icon": "Fire",
+    "name": "文传",
+    "link": "https://share.mxine.link/"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "监测",
+    "link": "https://seew.mxine.link/"
+  },
+  {
+    "icon": "Compass",
+    "name": "关于",
+    "link": "https://web.mxine.link/about"
+  }
+]
